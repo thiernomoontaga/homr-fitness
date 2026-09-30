@@ -1,0 +1,5 @@
+Home Fitness — édition avec section Visite
+Date : 28 septembre 2026
+Section : #visite — 7 photos
+Démarrage : bash demarrer.sh
+Adresse : http://localhost:8001/#visite
